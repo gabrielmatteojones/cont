@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Manuale operativo di design - Designers Italia'
+settings_project_name = 'CONT FV'
 settings_copyright_copyleft = "CC-BY 4.0 - Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
 settings_editor_name = "Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
-settings_file_name = 'Manuale-operativo-design'
+settings_file_name = 'CONT-FV'
 
 import sys
 import os
